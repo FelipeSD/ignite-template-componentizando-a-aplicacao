@@ -27,6 +27,9 @@ nav.sidebar {
     display: flex;
     flex-direction: column;
 
+    position: sticky;
+    top: 5%;
+
     width: 100%;
   }
 }
